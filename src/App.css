@@ -104,6 +104,7 @@ color: rgb(255, 255, 0);
 @media (max-width:414px) {
   .main{
     width: 300px;
+    flex-direction: column;
   
   
   }
